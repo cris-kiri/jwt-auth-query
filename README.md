@@ -8,8 +8,8 @@ Our task is to complete the authentication implementation of this app.
 
 ### 0. Installation and migrations
 
-- [ ] Clone this repo and `cd` into the new directory
-- [ ] Install packages, run migrations and seeds, and start the dev server with `npm run dev`
+- [x] Clone this repo and `cd` into the new directory
+- [x] Install packages, run migrations and seeds, and start the dev server with `npm run dev`
   <details style="padding-left: 2em">
     <summary>Tip</summary>
 
@@ -23,7 +23,7 @@ Our task is to complete the authentication implementation of this app.
     ```
   </details>
 
-- [ ] Visit [http://localhost:5173](http://localhost:5173) in your browser
+- [x] Visit [http://localhost:5173](http://localhost:5173) in your browser
 
 ---
 
